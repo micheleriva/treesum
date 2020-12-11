@@ -1,0 +1,13 @@
+{
+  "name": "treesum",
+  "version": "0.0.1",
+  "description": "Blazing fast library for computing MD5 checksum of large filesystems",
+  "main": "index.js",
+  "scripts": {
+    "compile:go": "cd cmd && make compile"
+  },
+  "repository": "https://github.com/micheleriva/treesum",
+  "author": "Michele Riva <ciao@micheleriva.it>",
+  "license": "GPL-3.0",
+  "private": false
+}
