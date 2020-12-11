@@ -1,4 +1,4 @@
-<img src="/misc/cover.jpg" />
+<img src="/misc/cover.png" />
 
 **Still a work in progress**
 
@@ -28,9 +28,9 @@ console.log(sums);
 
 # Roadmap
 
-[] Make it work
-[] Watch mode
-[] Unique checksum of entire directory content
+- [ ] Make it work
+- [ ] Watch mode
+- [ ] Unique checksum of entire directory content
 
 # License
 **Treesum** is licensed under the **[GPLv3 license](/LICENSE.md)**
